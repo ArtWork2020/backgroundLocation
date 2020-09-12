@@ -5,3 +5,5 @@
 ・位置情報取得開始した後、アプリをバックグラウンドへ遷移させる  
 　->位置情報取得は継続する  
  　 取得した緯度、経度をNotificationに表示する  
+
+![demo](https://github.com/ArtWork2020/backgroundLocation/wiki/rickhako/backgroundLocation/g9n1p-0ud87.gif)
