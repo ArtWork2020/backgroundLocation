@@ -6,4 +6,6 @@
 　->位置情報取得は継続する  
  　 取得した緯度、経度をNotificationに表示する  
 
-![demo](https://github.com/ArtWork2020/backgroundLocation/wiki/rickhako/backgroundLocation/g9n1p-0ud87.gif)
+<img src="https://user-images.githubusercontent.com/2355943/93006908-0faeb580-f59d-11ea-88ff-f1f03b62b039.gif" width="320px">
+
+<img src="https://user-images.githubusercontent.com/2355943/93006912-176e5a00-f59d-11ea-9273-15657baf3708.gif" width="320px">
